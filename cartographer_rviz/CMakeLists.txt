@@ -23,7 +23,7 @@ set(PACKAGE_DEPENDENCIES
   message_runtime
   roscpp
   roslib
-  rviz
+#  rviz
 )
 
 find_package(cartographer REQUIRED)
